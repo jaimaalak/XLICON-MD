@@ -1,7 +1,7 @@
 {
-  "name": "XLICON-MD",
+  "name": "rai",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by TEAM-X.",
+  "description": "TEAM-X.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
@@ -9,7 +9,7 @@
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name XLICON",
     "stop": "pm2 stop XLICON"
   },
-  "author": "salmanytofficial",
+  "author": "rai",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
